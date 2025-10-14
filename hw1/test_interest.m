@@ -1,3 +1,4 @@
+% anonymous function
 f = @(x, n) (1 + (x/n))^n;
 
 format long e
